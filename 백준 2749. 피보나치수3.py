@@ -1,3 +1,4 @@
+
 n = int(input())
 
 def fibo3(n):
